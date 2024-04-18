@@ -1,0 +1,392 @@
+[
+    {
+        "id": 1,
+        "topicId": 1,
+        "difficulty": "easy",
+        "text": "E1",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 1
+    },
+    {
+        "id": 2,
+        "topicId": 1,
+        "difficulty": "easy",
+        "text": "E2",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 1
+    },
+    {
+        "id": 3,
+        "topicId": 1,
+        "difficulty": "easy",
+        "text": "E3",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 1
+    },
+    {
+        "id": 4,
+        "topicId": 1,
+        "difficulty": "easy",
+        "text": "E4",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 1
+    },
+    {
+        "id": 5,
+        "topicId": 1,
+        "difficulty": "easy",
+        "text": "E5",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 1
+    },
+    {
+        "id": 6,
+        "topicId": 1,
+        "difficulty": "easy",
+        "text": "E6",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 1
+    },
+    {
+        "id": 7,
+        "topicId": 1,
+        "difficulty": "easy",
+        "text": "E7",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 1
+    },
+    {
+        "id": 8,
+        "topicId": 1,
+        "difficulty": "easy",
+        "text": "E8",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 1
+    },
+    {
+        "id": 9,
+        "topicId": 1,
+        "difficulty": "easy",
+        "text": "E9",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 1
+    },
+    {
+        "id": 10,
+        "topicId": 1,
+        "difficulty": "easy",
+        "text": "E10",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 1
+    },
+    {
+        "id": 11,
+        "topicId": 1,
+        "difficulty": "medium",
+        "text": "M1",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 2
+    },
+    {
+        "id": 12,
+        "topicId": 1,
+        "difficulty": "medium",
+        "text": "M2",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 2
+    },
+    {
+        "id": 13,
+        "topicId": 1,
+        "difficulty": "medium",
+        "text": "M3",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 2
+    },
+    {
+        "id": 14,
+        "topicId": 1,
+        "difficulty": "medium",
+        "text": "M4",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 2
+    },
+    {
+        "id": 15,
+        "topicId": 1,
+        "difficulty": "medium",
+        "text": "M5",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 2
+    },
+    {
+        "id": 16,
+        "topicId": 1,
+        "difficulty": "medium",
+        "text": "M6",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 2
+    },
+    {
+        "id": 17,
+        "topicId": 1,
+        "difficulty": "medium",
+        "text": "M7",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 2
+    },
+    {
+        "id": 18,
+        "topicId": 1,
+        "difficulty": "medium",
+        "text": "M8",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 2
+    },
+    {
+        "id": 19,
+        "topicId": 1,
+        "difficulty": "medium",
+        "text": "M9",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 2
+    },
+    {
+        "id": 20,
+        "topicId": 1,
+        "difficulty": "medium",
+        "text": "M10",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 2
+    },
+    {
+        "id": 21,
+        "topicId": 1,
+        "difficulty": "hard",
+        "text": "H1",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 3
+    },
+    {
+        "id": 22,
+        "topicId": 1,
+        "difficulty": "hard",
+        "text": "H2",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 3
+    },
+    {
+        "id": 23,
+        "topicId": 1,
+        "difficulty": "hard",
+        "text": "H3",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 3
+    },
+    {
+        "id": 24,
+        "topicId": 1,
+        "difficulty": "hard",
+        "text": "H4",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 3
+    },
+    {
+        "id": 25,
+        "topicId": 1,
+        "difficulty": "hard",
+        "text": "H5",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 3
+    },
+    {
+        "id": 26,
+        "topicId": 1,
+        "difficulty": "hard",
+        "text": "H6",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 3
+    },
+    {
+        "id": 27,
+        "topicId": 1,
+        "difficulty": "hard",
+        "text": "H7",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 3
+    },
+    {
+        "id": 28,
+        "topicId": 1,
+        "difficulty": "hard",
+        "text": "H8",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 3
+    },
+    {
+        "id": 29,
+        "topicId": 1,
+        "difficulty": "hard",
+        "text": "H9",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 3
+    },
+    {
+        "id": 30,
+        "topicId": 1,
+        "difficulty": "hard",
+        "text": "H10",
+        "choices": [
+            {"id": 1, "text": 1},
+            {"id": 2, "text": 2},
+            {"id": 3, "text": 3},
+            {"id": 4, "text": 4}
+        ],
+        "correctAnswerId": 3
+    }
+]

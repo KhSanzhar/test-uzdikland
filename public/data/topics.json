@@ -1,0 +1,7 @@
+[
+    { "id": 1, "subjectId": 1, "name": "Algebra" },
+    { "id": 2, "subjectId": 1, "name": "Geometry" },
+    { "id": 3, "subjectId": 2, "name": "World War II" },
+    { "id": 4, "subjectId": 2, "name": "Ancient Civilizations" }
+  ]
+  
